@@ -60,5 +60,5 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 }
 
 #elementoTres {
-    position: sticky;
+    position: absolute;
 }
